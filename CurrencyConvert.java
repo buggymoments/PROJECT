@@ -1,6 +1,6 @@
 package buggymoments;
 
-public class Main {
+public class CurrencyConvert {
 
     // Currency Converter
 
