@@ -3,6 +3,9 @@ package buggymoments;
 public class CurrencyConvert {
 
     // Currency Converter
+    
+    double input = 0;
+    double result = 0;
 
     public void USDConvert(){
         /* USD to USD   1 = 1
