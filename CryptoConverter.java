@@ -37,6 +37,10 @@ public class Main {
 
 
      */
+    
+    double input = 0;
+    double result = 0;
+    
     public void BTCConvert(){
         /* BTC to BTC
            BTC to ETH
